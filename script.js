@@ -116,3 +116,14 @@ console.log('Average Change:' + averageChange);
 var greatestIncrease = 0;
 var greatestMonth = [,];
 differenceBetweenMonths = 0;
+
+for (var i = 0; i < finances.length; i++) {
+    if (i > 0){
+        differenceBetweenMonths = finances[i][1] - finances[i - 1][1]
+        if (differenceBetweenMonths > greatestIncrease) {
+            greatestIncrease = differenceBetweenMonths;
+            greatestMonth[0] = finances[i][0];
+            greatestMonth[1] = differenceBetweenMonths;
+        } 
+    }      
+}  
