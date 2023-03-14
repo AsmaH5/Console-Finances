@@ -22,3 +22,11 @@ To use this Console-Finances, you can review it by opening the Chrome DevTools b
 ## Screenshots of Website and Console:
 ![Website](https://user-images.githubusercontent.com/97250633/225021429-06fd40e6-4512-4b5d-9645-f106541970cc.png)
 ![Console](https://user-images.githubusercontent.com/97250633/225021465-4cefcead-07ea-4963-92a0-c3995453b29d.png)
+
+## Project Link:
+
+## Acknowledgments
+* [W3 schools](https://www.w3schools.com/js/default.asp)
+* [Mdn Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=387s)
+* [stack overflow](https://stackoverflow.com/)
