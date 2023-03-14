@@ -129,3 +129,7 @@ for (var i = 0; i < finances.length; i++) {
 }  
 
 console.log('Greatest Increase in Profits/Losses: ' + greatestMonth[0] + ' ($' + greatestMonth[1] + ')');
+
+var biggestDecrease = 0;
+var lowestMonth = [,];
+differenceBetweenMonths = 0;
