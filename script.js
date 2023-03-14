@@ -103,3 +103,10 @@ console.log('Total: $' + total);
 
 var averageChange = 0;
 var differenceBetweenMonths = 0;
+
+for (var i = 0; i < finances.length; i++) {
+    if (i > 0){
+        differenceBetweenMonths += finances[i][1] - finances[i - 1][1]
+    }      
+}    
+
