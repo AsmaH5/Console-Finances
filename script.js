@@ -100,3 +100,6 @@ for (var i = 0; i < finances.length; i++) {
 }   
 
 console.log('Total: $' + total);
+
+var averageChange = 0;
+var differenceBetweenMonths = 0;
