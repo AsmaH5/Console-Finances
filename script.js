@@ -143,4 +143,6 @@ for (var i = 0; i < finances.length; i++) {
             lowestMonth[1] = differenceBetweenMonths;
         } 
     }      
-}   
+}  
+
+console.log('Greatest Decrease in Profits/Losses: ' + lowestMonth[0] + ' ($' + lowestMonth[1] + ')')
