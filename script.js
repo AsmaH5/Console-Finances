@@ -127,3 +127,5 @@ for (var i = 0; i < finances.length; i++) {
         } 
     }      
 }  
+
+console.log('Greatest Increase in Profits/Losses: ' + greatestMonth[0] + ' ($' + greatestMonth[1] + ')');
