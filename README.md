@@ -16,3 +16,5 @@ Your task is to write JavaScript code that analyzes the records to calculate eac
 * HTML
 * Javascript
 
+## Usage:
+To use this Console-Finances, you can review it by opening the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see the financial analysis.
