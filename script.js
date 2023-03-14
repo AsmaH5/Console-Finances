@@ -110,3 +110,5 @@ for (var i = 0; i < finances.length; i++) {
     }      
 }    
 
+averageChange = Math.round((differenceBetweenMonths / (finances.length -1)) * 100) / 100;
+console.log('Average Change:' + averageChange);
